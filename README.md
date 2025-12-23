@@ -64,28 +64,19 @@ This project addresses that gap by providing:
 
 ---
 
-## 📁 Repository Structure
-
-.
-├── generate_generic_dataset.py
-├── generate_bangalore_dataset.py
-├── dragonfruit_generic.csv
-├── dragonfruit_bangalore.csv
-├── README.md
-
-
----
-
 ## ⚙️ How to Run
 
-### 1️⃣ Install Dependencies
+### Install Dependencies
 ```bash
 pip install numpy pandas
-
+```
+### Generate the Datasets 
+```bash
 python generate_generic_dataset.py
 python generate_bangalore_dataset.py
 ```
 CSV files will be saved automatically in the project directory.
+---
 
 ## 📦 Output Files :
 
