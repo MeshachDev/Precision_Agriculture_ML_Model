@@ -68,7 +68,7 @@ This project addresses that gap by providing:
 
 ### Install Dependencies
 ```bash
-pip install numpy pandas
+pip install pandas numpy scikit-learn torch
 ```
 ### Generate the Datasets 
 ```bash
